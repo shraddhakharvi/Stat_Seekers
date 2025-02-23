@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/7d482976-5b4d-4259-a8ce-df756baaf5c8)
+
+
 # 🎵 Spotify Data Analytics Project 🚀
 
 ## 📌 Overview
